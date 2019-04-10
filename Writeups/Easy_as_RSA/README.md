@@ -1,0 +1,26 @@
+# Easy as RSA
+Crypto
+
+## Challenge 
+
+Decrypt this for a quick flag!
+
+	n: 379557705825593928168388035830440307401877224401739990998883
+	e: 65537
+	c: 29031324384546867512310480993891916222287719490566042302485
+
+## Solution
+
+Factorised on factordb.com
+
+	p = 564819669946735512444543556507
+	q = 671998030559713968361666935769
+
+Decrypt in Ruby script
+
+	$ ruby solve.rb 
+	tjctf{RSA_2_3asy}
+
+## Flag
+
+	tjctf{RSA_2_3asy}

@@ -1,0 +1,139 @@
+* TCP_NODELAY set
+* Connected to flag_checker.tjctf.org (104.18.50.148) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH
+* successfully set certificate verify locations:
+*   CAfile: /etc/ssl/cert.pem
+  CApath: none
+* TLSv1.2 (OUT), TLS handshake, Client hello (1):
+} [512 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server hello (2):
+{ [96 bytes data]
+* TLSv1.2 (IN), TLS handshake, Certificate (11):
+{ [4441 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server key exchange (12):
+{ [148 bytes data]
+* TLSv1.2 (IN), TLS handshake, Server finished (14):
+{ [4 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Client key exchange (16):
+} [70 bytes data]
+* TLSv1.2 (OUT), TLS change cipher, Client hello (1):
+} [1 bytes data]
+* TLSv1.2 (OUT), TLS handshake, Finished (20):
+} [16 bytes data]
+* TLSv1.2 (IN), TLS change cipher, Client hello (1):
+{ [1 bytes data]
+* TLSv1.2 (IN), TLS handshake, Finished (20):
+{ [16 bytes data]
+* SSL connection using TLSv1.2 / ECDHE-ECDSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: OU=Domain Control Validated; OU=PositiveSSL Multi-Domain; CN=sni80928.cloudflaressl.com
+*  start date: Apr  3 00:00:00 2019 GMT
+*  expire date: Oct 10 23:59:59 2019 GMT
+*  subjectAltName: host "flag_checker.tjctf.org" matched cert's "*.tjctf.org"
+*  issuer: C=GB; ST=Greater Manchester; L=Salford; O=COMODO CA Limited; CN=COMODO ECC Domain Validation Secure Server CA 2
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0x7ff5e8000400)
+> POST /?derp={{2*1}} HTTP/2
+> Host: flag_checker.tjctf.org
+> User-Agent: curl/7.54.0
+> Accept: */*
+> Content-Length: 50
+> Content-Type: application/x-www-form-urlencoded
+> 
+* Connection state changed (MAX_CONCURRENT_STREAMS updated)!
+} [50 bytes data]
+* We are completely uploaded and fine
+100    50    0     0  100    50      0     83 --:--:-- --:--:-- --:--:--    83< HTTP/2 200 
+< date: Sun, 07 Apr 2019 09:55:00 GMT
+< content-type: text/html; charset=utf-8
+< set-cookie: __cfduid=d40fd9d85d69cea919387b76335cae16e1554630899; expires=Mon, 06-Apr-20 09:54:59 GMT; path=/; domain=.tjctf.org; HttpOnly; Secure
+< vary: Cookie
+< set-cookie: session=eyJoYXNfZmxhZyI6ZmFsc2V9.XKnI9A.vNOsL9z4Zc1QwuRbeQjrxKd9UyA; HttpOnly; Path=/
+< expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< server: cloudflare
+< cf-ray: 4c3b1f943e9b948d-NRT
+< 
+{ [1024 bytes data]
+100  2840    0  2790  100    50   2754     49  0:00:01  0:00:01 --:--:--  2756
+* Connection #0 to host flag_checker.tjctf.org left intact
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <title>TJCTF Flag Checker</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+
+
+    <style>
+        .bd-placeholder-img {
+            font-size: 1.125rem;
+            text-anchor: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+
+        @media (min-width: 768px) {
+            .bd-placeholder-img-lg {
+                font-size: 3.5rem;
+            }
+        }
+    </style>
+    <!-- Custom styles for this template -->
+    <link href="https://getbootstrap.com/docs/4.3/examples/cover/cover.css" rel="stylesheet">
+</head>
+
+<body class="text-center">
+    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+        <header class="masthead mb-auto">
+            <div class="inner">
+                <h3 class="masthead-brand">TJCTF Flag Checker</h3>
+                <nav class="nav nav-masthead justify-content-center">
+                    <a class="nav-link active" href="#">Home</a>
+                    <a class="nav-link" href="#">Features</a>
+                    <a class="nav-link" href="#">Contact</a>
+                </nav>
+            </div>
+        </header>
+
+        <main role="main" class="inner cover">
+            <h1 class="cover-heading">Welcome to my Flag Checker!</h1>
+            <p class="lead">Oops, you didn't quite get it. Want to try again?</p>
+            <p class="lead">
+                <form method="POST">
+                    <input type="hidden" name="csrfmiddlewaretoken" value="b&#39;\xd2zX\xe6|S\x90\xc3xi\x88l\x18\xe6zP&#39;" />
+                    <div class="form-group">
+                        <label for="flag">Flag</label>
+                        <input type="text" class="form-control" name="flag" id="flag" aria-describedby="flagHelp"
+                            placeholder="Enter flag">
+                        <small id="flagHelp" class="form-text text-muted">I won't judge you if the flag is
+                            wrong.</small>
+                    </div>
+                    <button type="submit" class="btn btn-lg btn-secondary">Check!</button>
+                </form>
+            </p>
+        </main>
+
+        <footer class="mastfoot mt-auto">
+            <div class="inner">
+                <p>Cover template for <a href="https://getbootstrap.com/">Bootstrap</a>, by <a
+                        href="https://twitter.com/mdo">@mdo</a>.</p>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
