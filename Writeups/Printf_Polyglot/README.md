@@ -174,6 +174,8 @@ More explanation of how I formed the payload is in my script.
 
 > [format_string.py](format_string.py)
 
+***I did not solve this within the CTF because this was the first time I did format string attack on a 64-bit binary. Take note that 64-bit addresses are 8 bytes long and may contain NULL bytes. Hence, the address must be placed only after all the payload is written***
+
 Final exploit
 
 	# (python format_string.py; cat) | nc p1.tjctf.org 8003
